@@ -19,3 +19,9 @@ Al ser miembro de un equipo Scrum, tendrás plazos para entregar tu trabajo, per
 - **Product Owner:**  El Product Owner se encarga de afinar las estrategias para la captación de potenciales clientes y selecciona los stakeholders más ideales para la empresa o que se adaptan mejor a la metodología Scrum. Una vez que el Product Owner tiene en su mano el proyecto o las exigencias del stakeholder (cliente), tiene que decidir cuáles son las principales tareas a cumplir en el proyecto y cuál es la visión del sprint. Un buen Product Owner debe tener la disponibilidad de tiempo necesaria para aclarar dudas al equipo y asistir a todas las reuniones de retroalimentación y evaluación, cubriendo así su rol de manera eficaz.
 - **Equipo de Desarrollo:** El Equipo de Desarrollo puede estar conformado por un grupo de 3 a 9 personas especializadas en funciones de desarrollo. El grupo se une para cumplir una tarea determinada, que es asignada por el Scrum Master. Cada miembro del equipo tiene una función asignada, pero aun así todos están enfocados en cumplir con la tarea que fue asignada al grupo como núcleo. 
 
+##Aclaracion importante:
+Cabe destacar que la Posicion de "Scrum Master" va rotando de acuerdo al Sprint y la Tarea principal necesaria.
+Es uno mas del Resto, es el guia del equipo.
+Por ejemplo: En un Sprint de Base de Datos...
+Alguien que sabe mas de modelado de Datos, Seria mas eficiente en la posicion de Scrum Master que alguien que se especialice menos en esa materia.
+
