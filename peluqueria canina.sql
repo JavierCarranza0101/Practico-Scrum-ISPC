@@ -1,1 +1,0 @@
-SELECT fecha, monto FROM historial where (fecha) BETWEEN '2022-07-01' AND '2022-07-31'
