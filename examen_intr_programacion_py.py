@@ -156,6 +156,10 @@ Que representa montos de atención en pesos por diferentes servicios/consultas d
 
 # historial4=7510, 7960, 76180, 800, 4100
 # def gasto_menor(a):
+#    """ Determina el valor minimo del argumento dado
+#    Arg: determinado por el usuario.
+#    return: int. El valor minimo.
+#    """
 #     menor=999999999
 #     for elem in a:
 #         if elem < menor:
@@ -175,6 +179,10 @@ Crear una función para determinar el valor máximo de atención gastada en “T
 
 # historial5=8520, 9510, 7530, 3570, 1590
 # def gasto_mayor(b):
+#    """ Determina el valor maximo del argumento dado
+#    Arg: determinado por el usuario.
+#    return: int. El valor maximo.
+#    """
 #     mayor=0
 #     for elem in b:
 #         if elem > mayor:
@@ -190,16 +198,9 @@ Ordenarla alfabéticamente y mostrarla por pantalla.
 '''
 #10)
 
-clientes=['Juan',  'Mario',  'Ariel',  'Josefina', 'Zonzo',  'Marianella']
-
-clientes.sort()
-print(clientes)
-
-
-
-
-
-
+# clientes=['Juan',  'Mario',  'Ariel',  'Josefina',  'Marianella']
+# clientes.sort()
+# print(clientes)
 
 '''
 El archivo en Python (.py) debe ser subido a la rama de la persona 
